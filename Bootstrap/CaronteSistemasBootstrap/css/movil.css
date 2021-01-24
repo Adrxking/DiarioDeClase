@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+#contenedor {
+    background-color: green;
+}
+
+#principal {
+    background-color: rgba(0,0,0,.7);
+}
+
+#principal a{
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+    height: 30px;
+
+}
